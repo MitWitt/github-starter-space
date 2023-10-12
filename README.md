@@ -91,7 +91,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## 📝 Optional next steps 
 
 * Edit main.py and add line with your name on it, e.g.  print("Hi! [yourname] was here! :-)").   Commit changes and the teacher will know that you have read this.
-* Go to your user dashboard and create a new repository by using this a a templete.  See instructions here: ["Creating repository from a templete" | Github Docs] (https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). 
+* Go to your user dashboard and create a new repository by using this a a templete.  See instructions here: ["Creating repository from a templete" | Github Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). 
 * Experiment with the features within that repository to familiarize yourself with them.
 * [Let GitHub know what you liked or didn’t like about this tutorial page](https://support.github.com/contact/education)
 * Familiarize yourself with the resources listed below.

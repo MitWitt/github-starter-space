@@ -30,6 +30,8 @@ Ohjelma on Python kielellä ohjelmoitu hirsipuupeli. Teimme ohjelman kahden opis
 
 **Yhteistyöalusta:** [Replit](https://replit.com/)
 
+**Video:** [YouTube video](https://youtu.be/M3QHygdoEm4)
+
 **Työnkulku:** Aluksi ladattiin koodiin 'random'-moduuli Python standardikirjastosta jonka avulla pystytään generoimaan satunnaisesti asioita. Sen jälkeen kirjoitettiin tervetuloa-teksti ja listattiin vähän pelin säännöistä. Kirjoitettiin 'sanapankki' muuttujaan lista hedelmiä suomenkielellä.
 
 Tarvitsimme oikein ja väärin vastauksille ratkaisut siten että väärästä vastauksesta hirsipuun kuva kasvaisi ja oikeinvastauksesta tulisi esiin kirjainvinkki Hirsipuu sanalle.

@@ -5,15 +5,23 @@
 Ohjelma on Python kielellä ohjelmoitu hirsipuupeli. Teimme ohjelman kahden opiskelijan ryhmässä johon kuului Oskar Hänninen ja Eemeli Lehesalo. Pelaajan tulee arvata salainen sana kirjain kerrallaan. Pelaajalla on rajallinen määrä yrityksiä arvata kaikki oikein ennen kuin "hirttopuuhun" piirretty kuva valmistuu. Pelimoottoriin on annettu lista hedelmien nimiä Suomen kielellä joita pelaaja yrittää arvata.
 
 
+
 ### Toiminnot
 
 **Sanan arvaaminen:** Pelaaja arvaa kirjaimia saadakseen selville salaisen sanan.
+
 **Yritysten laskeminen:** Pelaajalla on tietty määrä yrityksiä, jotka vähenevät jokaisesta väärästä arvauksesta.
+
 **Sanan näyttäminen:** Näyttää oikein arvatut kirjaimet ja korvaa arvaamattomat kirjaimet alaviivoilla.
+
 **Pelin lopettaminen:** Ilmoittaa voitosta, jos sana arvataan oikein, tai häviöstä, jos yritykset loppuvat.
+
 **Sanan valinta:** Ohjelma valitsee satunnaisen sanan valmiista sanalistasta.
+
 **Käyttöliittymä:** Tekstipohjainen käyttöliittymä, joka näyttää pelaajalle tarvittavat tiedot ja vastaanottaa syötteet.
+
 **Pelin logiikka:** Ohjelma seuraa pelaajan arvauksia, päivittää näytettävän sanan ja tarkistaa pelin voitto- tai häviötilanteen.
+
 
 
 ### Toteutus

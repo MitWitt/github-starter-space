@@ -8,23 +8,18 @@ Ohjelma on Python kielellä ohjelmoitu hirsipuupeli. Teimme ohjelman kahden opis
 ### Toiminnot
 
 **Sanan arvaaminen:** Pelaaja arvaa kirjaimia saadakseen selville salaisen sanan.
-
 **Yritysten laskeminen:** Pelaajalla on tietty määrä yrityksiä, jotka vähenevät jokaisesta väärästä arvauksesta.
-
 **Sanan näyttäminen:** Näyttää oikein arvatut kirjaimet ja korvaa arvaamattomat kirjaimet alaviivoilla.
-
 **Pelin lopettaminen:** Ilmoittaa voitosta, jos sana arvataan oikein, tai häviöstä, jos yritykset loppuvat.
-
 **Sanan valinta:** Ohjelma valitsee satunnaisen sanan valmiista sanalistasta.
-
 **Käyttöliittymä:** Tekstipohjainen käyttöliittymä, joka näyttää pelaajalle tarvittavat tiedot ja vastaanottaa syötteet.
-
 **Pelin logiikka:** Ohjelma seuraa pelaajan arvauksia, päivittää näytettävän sanan ja tarkistaa pelin voitto- tai häviötilanteen.
 
 
 ### Toteutus
 
 **Koodikieli:** Python
+
 **Yhteistyöalusta:** [Replit](https://replit.com/)
 
 **Työnkulku:** Aluksi ladattiin koodiin 'random'-moduuli Python standardikirjastosta jonka avulla pystytään generoimaan satunnaisesti asioita. Sen jälkeen kirjoitettiin tervetuloa-teksti ja listattiin vähän pelin säännöistä. Kirjoitettiin 'sanapankki' muuttujaan lista hedelmiä suomenkielellä.

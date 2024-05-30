@@ -25,7 +25,7 @@ Ohjelma on Python kielellä ohjelmoitu hirsipuupeli. Teimme ohjelman kahden opis
 ### Toteutus
 
 **Koodikieli:** Python
-**Yhteistyöalusta:** [text](https://replit.com/)
+**Yhteistyöalusta:** [Replit](https://replit.com/)
 
 **Työnkulku:** Aluksi ladattiin koodiin 'random'-moduuli Python standardikirjastosta jonka avulla pystytään generoimaan satunnaisesti asioita. Sen jälkeen kirjoitettiin tervetuloa-teksti ja listattiin vähän pelin säännöistä. Kirjoitettiin 'sanapankki' muuttujaan lista hedelmiä suomenkielellä.
 
